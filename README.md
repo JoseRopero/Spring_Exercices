@@ -1,4 +1,4 @@
-# Spring
+# Spring 🚀
 ## Ejercicio 1:
 Crear proyecto maven con la dependencia spring-context y crear una clase Saludo con un método imprimirSaludo que imprima un texto por consola.
 
