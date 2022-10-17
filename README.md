@@ -38,7 +38,7 @@ Crear un método en LaptopController que reciba un objeto Laptop enviado en form
 Comprobar que al obtener de nuevo los laptops aparece el nuevo ordenador creado.
 
 ## Ejercicio 5:
-Implementar los métodos CRUD en el API REST de Laptop creada en el ejercicio anteriore.
+Implementar los métodos CRUD en el API REST de Laptop creada en el ejercicio anterior.
 
 Los métodos CRUD:
  * findAll()
