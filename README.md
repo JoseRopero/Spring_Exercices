@@ -48,6 +48,6 @@ Los métodos CRUD:
  * delete()
  * deleteAll()
 
-Implementar swagger sobre el API REST de Laptop y verificar que funciona en la URL: "http://localhost:8081/swagger-ui/"
+Implementar swagger sobre el API REST de Laptop y verificar que funciona en la URL:http://localhost:8081/swagger-ui/
 
 Crear casos de test para el controlador de Laptop desde Spring Boot. Con click derecho dentro del código de la clase LaptopController utilizar la opción Generate > Test para crear la clase con todos los tests unitarios e implementarlos siguiente el proceso visto en clase.
